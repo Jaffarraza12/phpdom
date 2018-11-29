@@ -3,6 +3,8 @@
 include('simple_html_dom.php');
 
 
+//echo 1;
+
 $html = file_get_html('http://www.localsearch.ae/en/category/Clinics/1198');
 ?>
 
